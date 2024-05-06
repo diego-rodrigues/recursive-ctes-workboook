@@ -5,9 +5,11 @@ This repository holds two workbooks that showcase how to use recursive CTEs to s
 The code was developed and tested using a PostgreSQL server in a Docker container.
 
 To create and start the PostgreSQL server, make sure to have Docker installed and run the following code:
-`docker-compose up`
+```
+docker-compose up
+```
 
-On your browser, head to [local server page](http://localhost:8888/browser/)
+On your browser, head to [local server page](http://localhost:8888/browser/).
 
 Log in using the default credentials (provided in the [docker-compose.yml](docker-compose.yml) file):
 ```
