@@ -18,8 +18,8 @@ admin
 ```
 
 Register a new server:
-- In the tab `General`, choose a name;
-- In the tab `Connection`
+- On the tab `General`, choose a name;
+- On the tab `Connection`
     - set hostname to "db";
     - set username to "user-name" (provided in the docker compose file);
     - set password to "strong-password" (provided in the docker compose file).
